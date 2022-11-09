@@ -1,0 +1,9 @@
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/recursividade.dir
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/edit_cache.dir
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/rebuild_cache.dir
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/list_install_components.dir
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/install.dir
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/install/local.dir
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/install/strip.dir
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/recursividade_autogen_timestamp_deps.dir
+/home/diego/Área de Trabalho/recursividade/build-recursividade-Qt6-Debug/CMakeFiles/recursividade_autogen.dir
